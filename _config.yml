@@ -5,6 +5,8 @@ author: Yong Lim
 avatar: /logo.png
 email: yong.lim@gmail.com
 
+url: "https://hisschool.yong.lim.com"
+
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
