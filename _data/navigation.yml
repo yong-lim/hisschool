@@ -1,0 +1,56 @@
+- title: Admissions
+  sublinks:
+    - title: Welcome to HIS
+      url: /welcome/
+    - title: Application
+      url: /application/
+    - title: School Fees
+      url: /school-fees/
+    - title: Make Payment
+      url: /payment/
+- title: About
+  sublinks:
+    - title: Mission/Vision/Values
+      url: /vision/
+    - title: Campus
+      url: /campus/
+    - title: Child Safety
+      url: /child-safety/
+    - title: Community
+      url: /community/
+    - title: Curriculum
+      url: /curriculum/
+    - title: History
+      url: /history/
+- title: School Staff
+  sublinks:
+    - title: Administration
+      url: /administration/
+    - title: Teachers
+      url: /teachers/
+    - title: Support Staff
+      url: /support-staff/
+    - title: Employment
+      url: /employment/
+    - title: Volunteers
+      url: /volunteers/
+    - title: School Board
+      url: /school-board/
+- title: School Life
+  sublinks:
+    - title: Calendar
+      url: /calendar/
+    - title: Sports
+      url: /sports/
+    - title: Shop HIS Store
+      url: /shop/
+    - title: HIS Photo Gallery
+      url: /photos/
+    - title: Alumni
+      url: /alumni/
+    - title: Request Transcripts
+      url: /transcripts/
+- title: Contact
+  url: /contact/
+- title: Donate
+  url: /donate/
