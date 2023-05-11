@@ -1,8 +1,8 @@
 title: HIS School
 description: "HIS International School (HIS) is a Christian K-12 grade international
 school."
-author: Yong Lim
 avatar: /logo.png
+author: Yong Lim
 email: yong.lim@gmail.com
 
 url: "https://hisschool.yonglim.com"
@@ -32,18 +32,6 @@ exclude:
   - README.md
   - jekyll-theme-hamilton.gemspec
 
-# Jekyll SEO Tag (Optional)
-# =========================
-# twitter:
-#   username: ngzhio
-#   card: summary
-# logo: logo.png
-# social:
-#   name: Shangzhi Huang
-#   links:
-#     - https://twitter.com/ngzhio
-#     - https://www.facebook.com/ngzhio
-#     - https://github.com/ngzhio
-# google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
 
+skin: sunrise
