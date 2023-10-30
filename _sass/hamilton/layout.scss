@@ -197,7 +197,7 @@
  * Site sidebar
  */
 .site-sidebar {
-  padding: $spacing-unit;
+  padding: calc($spacing-unit /2) $spacing-unit 0rem 0rem;
   border-right: 1px solid;
   @include relative-font-size(0.8);
 
